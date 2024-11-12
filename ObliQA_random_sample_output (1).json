@@ -1,0 +1,878 @@
+[
+    {
+        "QuestionID": "058fd9ba-5217-4773-bbde-010a3c33d180",
+        "Question": "Could you please clarify the specific types of reportable accounts and financial institutions under ADGM's jurisdiction that are required to comply with FATCA and the Common Reporting Standard (CRS) regulations?",
+        "Passages": [
+            {
+                "DocumentID": 24,
+                "PassageID": "3.14",
+                "Passage": "Principle 3 \u2013 Preventing Money Laundering and Other Financial Crime. With regard to taxation, the FSRA expects authorised firms to be fully cognisant of applicable reporting obligations under the FATCA and Common Reporting Standards regimes.\n",
+                "Relation": 2
+            },
+            {
+                "DocumentID": 33,
+                "PassageID": "113)",
+                "Passage": "DIGITAL SECURITIES \u2013 SPECIFIC REGULATORY CONSIDERATIONS\nInternational Tax Reporting Obligations\nAll entities seeking to engage in Digital Securities-based financial services activities must consider and, if applicable, adhere to their tax reporting obligations including, as applicable, under the Foreign Account Tax Compliance Act (\u201cFATCA\u201d) and the ADGM Common Reporting Standard Regulations 2017.\n\n",
+                "Relation": 2
+            }
+        ]
+    },
+    {
+        "QuestionID": "b4f1c4f6-5481-4f42-83fd-36750b3a8c80",
+        "Question": "In the context of a Captive Insurer submitting a request to the Regulator for Direct Long-Term Insurance contracts, what kind of explanations are required to justify their methods for pricing and valuing these contracts in relation to capital adequacy calculations?",
+        "Passages": [
+            {
+                "DocumentID": 2,
+                "PassageID": "8.5.2",
+                "Passage": "A Captive Insurer may request for permission from the Regulator to effect Direct Long-Term Insurance contracts with features of the kind referred to in Rule \u200e8.5.1.  A request must be made in writing and must include:\n(a)\tdetails of the terms of the proposed contracts;\n(b)\tan explanation of how the Captive Insurer intends to price such contracts, and to value them for the purposes of its capital adequacy calculations; and\n(c)\tan explanation of how the Captive Insurer intends to quantify, monitor and manage the risks to its capital adequacy represented by such features of contracts.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "3b1dbd00-e514-41bb-b5f7-68e224fdfa58",
+        "Question": "How does the ADGM verify compliance with these risk management requirements, and what are the potential consequences for non-compliance?",
+        "Passages": [
+            {
+                "DocumentID": 10,
+                "PassageID": "4.7.14",
+                "Passage": "Credit risk. A Recognised Clearing House must establish and implement a robust process to manage:\n(a)\tits current and potential future credit and market risk exposures to market counterparties, including Members and other participants on its facilities; and\n(b)\tcredit risks arising from its payment, Clearing, and settlement processes.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 9,
+                "PassageID": "5.1.1.Guidance.(ii)",
+                "Passage": "The prudential Category for Islamic Financial Institutions and other Authorised Persons (acting through an Islamic Window) undertaking the Regulated Activity of Managing PSIAs (which may be either a Restricted PSIA or an Unrestricted PSIA) is determined in accordance with PRU Rule 1.3.  An Authorised Person which Manages PSIAs (whether as an Islamic Financial Institution or through an Islamic Window) must comply with the requirements in PRU in relation to specific prudential requirements relating to Trading Book and Non-Trading Book activities, including Credit Risk, Market Risk, Liquidity Risk and Group Risk.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "a105dbb9-a4c0-4e04-925c-655e237a27df",
+        "Question": "What are the specific requirements for a FinTech Participant to successfully transition from the RegLab to full authorisation under the FSMR after the two-year validity period?",
+        "Passages": [
+            {
+                "DocumentID": 26,
+                "PassageID": "5.1",
+                "Passage": "Evaluation Criteria. To qualify for authorisation under the RegLab framework, the applicant must demonstrate how it satisfies the following evaluation criteria:\n(a)\tthe FinTech Proposal promotes FinTech innovation, in terms of the business application and deployment model of the technology.\n(b)\tthe FinTech Proposal has the potential to:\ni.\tpromote significant growth, efficiency or competition in the financial sector;\nii.\tpromote better risk management solutions and regulatory outcomes for the financial industry; or\niii.\timprove the choices and welfare of clients.\n(c)\tthe FinTech Proposal is at a sufficiently advanced stage of development to mount a live test.\n(d)\tthe FinTech Proposal can be deployed in the ADGM and the UAE on a broader scale or contribute to the development of ADGM as a financial centre, and, if so, how the applicant intends to do so on completion of the validity period.\n\n",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 26,
+                "PassageID": "8.2",
+                "Passage": "Unless an application to extend the two-year validity period is made at least three months before its expiry, or at such time as is otherwise agreed by the Regulator , the FinTech Participant will have to exit the RegLab and choose to either:\n(a)\tmigrate to the full authorisation and supervisory regime under the FSMR and deploy its FinTech solution on a broader scale; or\n(b)\temploy an exit strategy.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 26,
+                "PassageID": "4.13",
+                "Passage": "Two-year validity period. To be eligible to migrate to the full authorisation and supervisory regime, the FinTech Participant will be required to demonstrate to the Regulator that it:-\n(a)\thas achieved its intended test outcomes under the RegLab so as to deploy the FinTech product on a broader scale, and\n(b)\tcontinues to be fit and proper to be an Authorised Person in the ADGM.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "e5442ac4-ab31-4b03-9312-33ffcb8ae842",
+        "Question": "Are there any common pitfalls or areas of non-compliance that insurers should be aware of when establishing and maintaining their Credit Risk strategy as per ADGM regulations?",
+        "Passages": [
+            {
+                "DocumentID": 12,
+                "PassageID": "2.2.4.Guidance.2.",
+                "Passage": "An Insurer should describe how its risk limits, norms, and pricing policies described in Rule 2.2.1(d) link with its board approved risk appetite described in Rule 2.2.1(a), corporate objectives, business strategy and current circumstances.  An Insurer is expected to incorporate its risk limits into its day to day operations and its risk management policies and procedures.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 12,
+                "PassageID": "APP2.A2.2.Guidance.2.",
+                "Passage": "The risk management systems required by the Rules should be integrated with the operational processes of a business.  Insurers are expected to instil a strong risk control culture throughout their operations, so that material risks and potential problems that emerge can be identified, managed and promptly resolved in the normal course of business operations.  The absence of such a control culture is likely to be taken as evidence that more specific control objectives are unlikely to be attained.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 13,
+                "PassageID": "4.4.1.(1)",
+                "Passage": "An Authorised Person must implement and maintain a Credit Risk strategy, which prescribes its stated degree of risk tolerance, level of capital available for credit activities, business strategy for credit activities and Credit Risk management approach.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "3d08f9c2-50fc-4d21-9780-45c0ca5ccd6d",
+        "Question": "How does the ADGM ensure consistency and fairness in the enforcement of these Regulations across different financial institutions and account holders?",
+        "Passages": [
+            {
+                "DocumentID": 15,
+                "PassageID": "Part 4.9.(1)",
+                "Passage": "An Account Holder, Controlling Person or Financial Institution who:\n(a)\tdoes an act or thing that is prohibited under these Regulations, the Common Reporting Standard or the Cabinet Resolution;\n(b)\tdoes not do an act or thing that is required or directed to do under these Regulations, the Common Reporting Standard or the Cabinet Resolution; or\n(c)\totherwise contravenes these Regulations, the Common Reporting Standard or the Cabinet Resolution,\ncommits a contravention of these Regulations and the Cabinet Resolution and is liable to the penalties and sanctions set out in the Cabinet Resolution, and any other penalty or administrative fee or sanction that may be imposed by the Regulatory Authority pursuant to subsection 8(1)(a).",
+                "Relation": 0
+            },
+            {
+                "DocumentID": 15,
+                "PassageID": "Part 4.10.(1)",
+                "Passage": "Where the Regulatory Authority, or its delegate, considers that an Account Holder, Controlling Person or Financial Institution has contravened the Common Reporting Standard, the Cabinet Resolution or these Regulations it may by written notice to such person order that certain action be taken to comply with these Regulations.",
+                "Relation": 0
+            }
+        ]
+    },
+    {
+        "QuestionID": "19d056f3-f98b-4fe8-a1a7-5a608aef1523",
+        "Question": "How does the Regulator ensure that the information technology policies and processes established by an Authorized Person are considered \"appropriate\" and \"sound\" as per the stated requirements?",
+        "Passages": [
+            {
+                "DocumentID": 26,
+                "PassageID": "5.1",
+                "Passage": "Evaluation Criteria. To qualify for authorisation under the RegLab framework, the applicant must demonstrate how it satisfies the following evaluation criteria:\n(a)\tthe FinTech Proposal promotes FinTech innovation, in terms of the business application and deployment model of the technology.\n(b)\tthe FinTech Proposal has the potential to:\ni.\tpromote significant growth, efficiency or competition in the financial sector;\nii.\tpromote better risk management solutions and regulatory outcomes for the financial industry; or\niii.\timprove the choices and welfare of clients.\n(c)\tthe FinTech Proposal is at a sufficiently advanced stage of development to mount a live test.\n(d)\tthe FinTech Proposal can be deployed in the ADGM and the UAE on a broader scale or contribute to the development of ADGM as a financial centre, and, if so, how the applicant intends to do so on completion of the validity period.\n\n",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 26,
+                "PassageID": "6.3",
+                "Passage": "The Regulator will work with the applicant to determine the specific regulatory requirements and conditions (including test parameters and control boundaries) to be applied to the FinTech solution in question. The applicant will then assess if it is able to meet these requirements.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 13,
+                "PassageID": "6.6.1",
+                "Passage": "An Authorised Person must establish and maintain:\n(a)\tappropriate information technology policies and processes to identify, assess, monitor and manage technology risks; and\n(b)\tappropriate and sound information technology infrastructure to meet its current and projected business requirements, under normal circumstances and in periods of stress, which ensures data and system integrity, security and\tavailability and supports integrated and comprehensive risk management.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 26,
+                "PassageID": "7.2",
+                "Passage": "FSRA may, at any time through the life-cycle of the FinTech Proposal, by notice in writing to the FinTech Participant, cancel or vary any condition or restriction imposed on the FinTech Participant or impose such further condition or restriction as it may think fit in accordance with sections 33, 35 and 36 of the FSMR.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 26,
+                "PassageID": "4.5",
+                "Passage": "Blank-Sheet Approach . The requirements that will apply to FinTech participants under the RegLab framework may be adapted from existing regulations (including but not limited to the FSMR) and the FSRA Rules, as applicable.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "ff7e07b2-4865-4446-be19-6773e12584e0",
+        "Question": "In the event that a Petroleum Reporting Entity's information related to petroleum activities becomes public without an official disclosure, what steps should the entity take to comply with the relevant disclosure obligations under Chapter 7 and Chapter 12?",
+        "Passages": [
+            {
+                "DocumentID": 31,
+                "PassageID": "93)",
+                "Passage": "INTERACTION OF CHAPTER 12 WITH OTHER RULE DISCLOSURE OBLIGATIONS. Prior to a Petroleum Reporting Entity having all of the relevant information available to it, the FSRA considers that any material information a Petroleum Reporting Entity may have about the Petroleum activity will generally be insufficiently definite to warrant disclosure under the Rules.  Therefore, provided that any material information held by the Petroleum Reporting Entity is and remains confidential, the FSRA may form the view that the material information is not immediately required to be disclosed under Rule 7.2.2.  For more information, please refer to Chapter 7 of the Rules, and any relevant Guidance that the FSRA may publish from time in relation to the FSRA\u2019s expectations as to how Reporting Entities are to comply with Chapter 7.\n\n",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "cbcb233c-348a-49c0-81c0-23e790fad6f6",
+        "Question": "Could you please specify the minimum systems and controls that a start-up should have in place during the initial period of operation to meet ADGM requirements, and are there examples of the restrictions typically imposed on new entities?",
+        "Passages": [
+            {
+                "DocumentID": 3,
+                "PassageID": "22.4.2",
+                "Passage": "For the purposes of Rule 22.4.1, any delivery and/or storage facility used by an Authorised Person must be a facility in relation to which \u2013\n(a)\twhere the delivery and/or storage facility operates from outside ADGM, it operates under rules and regulations equivalent to those applying in the Abu Dhabi Global Market;\n(b)\tthe delivery and/or storage facility will, at all times, comply with all applicable laws in the relevant jurisdiction or elsewhere, including in particular and without limitation:\n(i) \tlocal port conditions;\n(ii)\tlocal, national and global customs requirements;\n(iii)\tlocal, national and global anticorruption laws;\n(iv)\tlocal, national and global taxation requirements; and\n(v)\tany other applicable rules and regulations;\n(c)\tthe delivery and/or storage facility adheres to:\n(i)\tappropriate international standards for storage and delivery mechanisms, including with regard to IOSCO\u2019s Good and Sound Practices; and\n(ii)\tOHSAS 18001 Health & Safety Management or equivalent certification standards;\n(d)\tit has appropriate audit and control arrangements in place, in relation to inventories, deliveries and physical infrastructure; and\n(e)\tit has appropriate insurance arrangements in place to cover operational, security, fraud, natural disasters and other applicable risks.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "11fb44a6-f53b-47e5-9c89-41f6ff8000b9",
+        "Question": "Could you please provide examples of the specific assets and liabilities that are exempted under Chapter Rule 5.3.2(a), and what are the regulatory objectives that these exceptions are intended to achieve?",
+        "Passages": [
+            {
+                "DocumentID": 12,
+                "PassageID": "5.3.1.Guidance",
+                "Passage": "\nThe exceptions provided in this Chapter relate to the following:\na.\tspecific Rules in respect of certain assets and liabilities, intended to achieve a regulatory objective not achieved by application of either or both of the bases of accounting set out in Rule \u200e5.3.2;\nb.\tassets and liabilities that are not dealt with in either or both of the bases of accounting set out in Rule \u200e5.3.2; and\nc.\tthe overriding power of the Regulator, set out in Rule \u200e5.1.6, to require an Insurer to adopt a particular measurement for a specific asset or liability.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "093fd921-2875-48f1-ae42-00fec16c1418",
+        "Question": "Are there any specific tools or metrics that the Regulator recommends for measuring and monitoring Liquidity Risk?",
+        "Passages": [
+            {
+                "DocumentID": 13,
+                "PassageID": "9.2.3.(1)",
+                "Passage": "An Authorised Person may delegate the day to day management of its Liquidity Risk to another entity in the same Group for management on a Group basis only if:\n(a)\tthe Governing Body of the Authorised Person:\n(i)\thas formally approved the delegation;\n(ii)\tkeeps the delegation under review; and\n(b)\tthe Authorised Person notifies the Regulator in writing of the delegation immediately upon its being made.",
+                "Relation": 2
+            },
+            {
+                "DocumentID": 13,
+                "PassageID": "9.2.2.(1)",
+                "Passage": "An Authorised Person must ensure that its Governing Body is responsible for monitoring the nature and level of Liquidity Risk assumed by the Authorised Person and the process used to manage that risk.",
+                "Relation": 2
+            }
+        ]
+    },
+    {
+        "QuestionID": "2f2bd67b-12c6-4743-99b5-0559215f7bf9",
+        "Question": "Are there specific risk management frameworks or contingency plans that an RCH must have in place as part of the Recognition Requirements?",
+        "Passages": [
+            {
+                "DocumentID": 34,
+                "PassageID": "87)",
+                "Passage": "REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES\nRecognised Clearing Houses (RCHs)\nSubject to being granted a Recognition Order, RCHs operating within ADGM are permitted to settle different types of Financial Instruments (and Accepted Spot Commodities, pending FSRA approval by way of stipulation in its Recognition Order).  An RCH must demonstrate to the FSRA that it is able to meet the Recognition Requirements as set out in MIR Chapters 2 and 4 before a Recognition Order can be granted.  Once it has been granted, a RCH must continue to comply with the Recognition Requirements (contained within MIR Chapters 2 and 4) on an ongoing basis.\n",
+                "Relation": 2
+            },
+            {
+                "DocumentID": 34,
+                "PassageID": "88)",
+                "Passage": "REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES\nRecognised Clearing Houses (RCHs)\nRIEs, MTFs and OTFs operating within ADGM may engage the services of an RCH for the purposes of MIR Rules 2.10 and 3.8.\n",
+                "Relation": 2
+            }
+        ]
+    },
+    {
+        "QuestionID": "1e427c60-fe59-477e-9f1a-eea556b518c2",
+        "Question": "How should an Insurer approach Group risk management to ensure that it meets the ADGM's regulatory standards, particularly in terms of intra-group transactions and exposures?",
+        "Passages": [
+            {
+                "DocumentID": 10,
+                "PassageID": "4.7.8",
+                "Passage": "Operational risk. A Recognised Clearing House shall implement a system of reporting to Senior Management that provides operational risk reports to Regulatory Functions within the institutions. A Recognised Clearing House shall have in place procedures for taking appropriate action according to the information within the reports to management.\n",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 12,
+                "PassageID": "2.3.3",
+                "Passage": "An Insurer must develop, implement and maintain a risk management system to identify the operational risks faced by the Insurer, including but not limited to:\n(a)\ttechnology risk (including processing risks);\n(b)\treputational risk;\n(c)\tfraud and other fiduciary risks;\n(d)\tcompliance risk;\n(e)\toutsourcing risk;\n(f)\tbusiness continuity planning risk;\n(g)\tlegal risk; and\n(h)\tkey person risk.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 12,
+                "PassageID": "APP2.A2.3.Guidance.6.",
+                "Passage": "While the risk management systems of an Insurer must address all material risks, Rule \u200e2.3 lays down specific requirements for an Insurer to maintain risk management systems in respect of the following areas:\na.\tbalance sheet risk;\nb.\tcredit quality risk;\nc.\tnon financial or operational risk;\nd.\treinsurance risk; and\ne.\tGroup risk.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "f538c6cd-7f87-4125-af86-c6b6ccae3438",
+        "Question": "Can the ADGM provide guidance on the appropriate size and composition of the buffer of HQLA over the minimum LCR required, considering the nature, scale, and complexity of our operations?",
+        "Passages": [
+            {
+                "DocumentID": 13,
+                "PassageID": "9.3.7.(1)",
+                "Passage": "An Authorised Person must, except as provided under Rule 9.3.8, maintain a buffer of HQLA over the minimum level of LCR required under its LCR Requirement, appropriate to the nature, scale and complexity of its operations and in line with its Liquidity Risk tolerance.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "d699a465-1871-43a2-ba2f-c494f12210b9",
+        "Question": "- What level of due diligence is required before entering into a business relationship, and how should the regulatory status of a business partner be verified?",
+        "Passages": [
+            {
+                "DocumentID": 13,
+                "PassageID": "10.Introduction.Guidance.1.",
+                "Passage": "This Chapter deals with the regulatory requirements arising out of the need for Authorised Persons to carry out a self assessment of their risk which can be reviewed and assessed by the Regulator. This Chapter details the Rules stipulating the need to complete internal risk assessments by Authorised Persons in defined frequencies and the Regulator's role in reviewing the results of such assessments. In the case of Authorised Persons facing financial risks, the requirements in this Chapter mandate completion of an Internal Capital Adequacy Assessment Process. The Regulator will review the results of such internal risk assessments. This Chapter also sets out how the Regulator may impose an additional Capital Requirement on a firm specific basis in addition to the minimum requirement specified in Chapter 3 of these Rules to address higher-than-normal risk.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 34,
+                "PassageID": "70)",
+                "Passage": "REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES\nMarket Abuse / Market Surveillance\nMTFs are required to operate an effective market surveillance program to identify, monitor, detect and prevent conduct amounting to market misconduct and/or Financial Crime.  Given the significant risks within Spot Commodity markets, an MTF\u2019s or OTF\u2019s surveillance system will need to be robust, and regularly reviewed and enhanced.\n\n",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 1,
+                "PassageID": "9.2.2.Guidance.5.",
+                "Passage": "Before entering into a business relationship, a Relevant Person should conduct a due diligence investigation, which includes ensuring that the business partner is an existing Person authorised to conduct the kind of business in question and, if applicable, verifying that this Person is duly regulated by a Financial Services Regulator or other relevant regulatory authority or regulator. In accordance with \"The Wolfsberg Anti-Money Laundering Principles for Correspondent Banking\", the Relevant Person should take into account, and verify the nature of:\n(a)\tthe business to be conducted and the major business activities of the business partner;\n(b)\tthe jurisdiction where the business partner is located as well as that of its parent; and\n(c)\tthe transparency and the nature of the ownership and the management structure.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "e0d50ee3-7e68-47c7-820f-fdb41ff0552a",
+        "Question": "How should a Relevant Person approach due diligence when dealing with complex transactions that have multiple layers of parties from different jurisdictions, including those subject to a call for action?",
+        "Passages": [
+            {
+                "DocumentID": 1,
+                "PassageID": "8.4.1.Guidance.12.",
+                "Passage": "Pursuant to directives of the NAMLCFTC, Relevant Persons must exercise appropriate levels of due diligence on Transactions originating from, routed through or destined for Jurisdictions Subject to a Call for Action and any other financial or non-financial engagement involving an individual or entity from such jurisdictions.",
+                "Relation": 2
+            }
+        ]
+    },
+    {
+        "QuestionID": "e248d11d-e083-46da-9654-74f1cee99277",
+        "Question": "Regarding the security measures for virtual assets, what specific network security industry best practices does the ADGM recommend, and how can Authorised Persons validate their compliance with these best practices?",
+        "Passages": [
+            {
+                "DocumentID": 19,
+                "PassageID": "114)",
+                "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nData protection obligations for Authorised Persons\nData controllers must ensure that personal data which they process is:\n\na)\tprocessed fairly, lawfully and securely;\n\nb)\tprocessed for specified, explicit and legitimate purposes in accordance with the data subject's rights and not further processed in a way incompatible with those purposes or rights;\n\nc)\tadequate, relevant and not excessive in relation to the purposes for which they are collected or further processed;\n\nd)\taccurate and, where necessary, kept up to date; and\n\ne)\tkept in a form, which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data were collected or for which they are further processed.\n",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 19,
+                "PassageID": "57)",
+                "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nSecurity measures and procedures\nAuthorised Persons should have measures and procedures in place which comply with network security industry best practices (e.g., the implementation of firewalls, strong passwords, password management procedures, multifactor authentication and encryption of data in transit and at rest).\n",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "84ae03f4-1890-4841-9970-c92d5ba8d93e",
+        "Question": "What constitutes an adequate risk management system for a Captive Insurer to address the listed risks, specifically market and investment risks, and can you provide guidance on the expected components of this system?",
+        "Passages": [
+            {
+                "DocumentID": 9,
+                "PassageID": "5.1.1.Guidance.(ii)",
+                "Passage": "The prudential Category for Islamic Financial Institutions and other Authorised Persons (acting through an Islamic Window) undertaking the Regulated Activity of Managing PSIAs (which may be either a Restricted PSIA or an Unrestricted PSIA) is determined in accordance with PRU Rule 1.3.  An Authorised Person which Manages PSIAs (whether as an Islamic Financial Institution or through an Islamic Window) must comply with the requirements in PRU in relation to specific prudential requirements relating to Trading Book and Non-Trading Book activities, including Credit Risk, Market Risk, Liquidity Risk and Group Risk.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 2,
+                "PassageID": "2.4.2",
+                "Passage": "Management of particular risks\nWithout prejudice to the generality of Rule \u200e2.4(1, a Captive Insurer must develop, implement and maintain a risk management system to identify and address risks, including but not limited to:\n(a)\treserving risk;\n(b)\tinvestment risk (including risks associated with the use of Derivatives);\n(c)\tunderwriting risk;\n(d)\tmarket risk;\n(e)\tliquidity management risk;\n(f)\tcredit quality risk;\n(g)\tfraud and other fiduciary risks;\n(h)\tcompliance risk;\n(i)\toutsourcing risk; and\n(j)\treinsurance risk.  Reinsurance risk refers to risks associated with the Captive Insurer's use of reinsurance arrangements as Cedant.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 13,
+                "PassageID": "5.Introduction.Guidance.2.",
+                "Passage": "This Chapter includes requirements that an Authorised Person:\na.\timplement a comprehensive Market Risk management framework to manage, measure and monitor Market Risk commensurate with the nature, scale and complexity of the firm's operations; and\nb.\tcalculate the Market Risk Capital Requirement and hold the same.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "33d983c9-f939-4717-b729-28ee21a49f9a",
+        "Question": "Is there a checklist or template available that outlines the evidence required to demonstrate that a firm has ceased all Regulated Activities in the context of withdrawing its Financial Services Permission?",
+        "Passages": [
+            {
+                "DocumentID": 27,
+                "PassageID": "2.9.2",
+                "Passage": "In determining a request for the withdrawal of a Financial Services Permission, we may require additional procedures or information as appropriate, including evidence that the firm has ceased to carry on Regulated Activities.",
+                "Relation": 0
+            }
+        ]
+    },
+    {
+        "QuestionID": "548b4c16-e612-44eb-a3e4-368bc24c42e1",
+        "Question": "Are there any particular technologies or methodologies that the ADGM Regulator recommends or requires Authorised Persons to use in monitoring for activities that could amount to market misconduct or financial crime?",
+        "Passages": [
+            {
+                "DocumentID": 17,
+                "PassageID": "Part 17.215.(1)",
+                "Passage": "The Regulator may take such steps as it considers appropriate to co operate with other persons (whether in the Abu Dhabi Global Market or elsewhere) who have functions\u2014\n(a)\tsimilar to those of the Regulator; or\n(b)\tin relation to the prevention or detection of Financial Crime.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 7,
+                "PassageID": "3.3.20",
+                "Passage": "Conduct: An Authorised Person must establish and maintain systems and controls that ensure, as far as reasonably practical, that the Authorised Person and its Employees do not engage in conduct, or facilitate others to engage in conduct, which may constitute:\n(1)\tmarket misconduct; or\n(2)\ta Financial Crime under any applicable U.A.E. laws.\n",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "765a0351-6ca2-46b8-b60c-d1388a5caf55",
+        "Question": "For Branch operations, what criteria does the ADGM use to evaluate whether the corporate governance practices adopted at the head office are adequate and applicable to the Branch?",
+        "Passages": [
+            {
+                "DocumentID": 7,
+                "PassageID": "3.3.41.(3).Guidance.9.",
+                "Passage": "Application to Branches and Groups: In the case of a Branch, corporate governance practices adopted at the head office would generally apply to the Branch and are expected to be adequate. The Regulator considers, as part of its authorisation of a Branch and on going supervision, the adequacy of regulatory and supervisory arrangements applicable in the home jurisdiction, including a corporate governance framework adopted and implemented by the head office (see the GPM).\n",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "caf13bd9-7ed3-4d0f-9706-bfec17bd1ad1",
+        "Question": "How does the FSRA expect our firm to demonstrate compliance with international tax reporting obligations such as FATCA and the ADGM Common Reporting Standard Regulations 2017 in relation to Digital Securities-based activities?",
+        "Passages": [
+            {
+                "DocumentID": 33,
+                "PassageID": "111)",
+                "Passage": "DIGITAL SECURITIES \u2013 SPECIFIC REGULATORY CONSIDERATIONS\nAnti-Money Laundering and Countering Financing of Terrorism\nAs is required of all Authorised Persons and Recognised Bodies operating within the ADGM, those entities seeking to undertake Digital Securities-based financial services activities are required to comply with the FSRA\u2019s Anti Money Laundering and Countering Financing of Terrorism \u201cAML/CFT\u201d framework including, among other things:\n\na)\tUAE AML/CFT Federal Laws, including the UAE Cabinet Resolution No. (10) of 2019 Concerning the Executive Regulation of the Federal Law No. 20 of 2018 concerning Anti-Money Laundering and Combating Terrorism Financing;\n\nb)\tUAE Cabinet Resolution 20 of 2019 concerning the procedures of dealing with those listed under the UN sanctions list and UAE/local terrorist lists issued by the Cabinet, including the FSRA AML and Sanctions Rules and Guidance (\u201cAML Rules\u201d) or such other AML rules as may be applicable in ADGM from time to time; and\n\nc)\tthe FSRA AML and Sanctions Rules and Guidance (\u201cAML Rules\u201d) or such other AML rules as may be applicable in ADGM from time to time; and\n\nd)\tthe adoption of international best practices (including FATF Recommendations).\n",
+                "Relation": 2
+            },
+            {
+                "DocumentID": 33,
+                "PassageID": "113)",
+                "Passage": "DIGITAL SECURITIES \u2013 SPECIFIC REGULATORY CONSIDERATIONS\nInternational Tax Reporting Obligations\nAll entities seeking to engage in Digital Securities-based financial services activities must consider and, if applicable, adhere to their tax reporting obligations including, as applicable, under the Foreign Account Tax Compliance Act (\u201cFATCA\u201d) and the ADGM Common Reporting Standard Regulations 2017.\n\n",
+                "Relation": 2
+            },
+            {
+                "DocumentID": 29,
+                "PassageID": "4.4",
+                "Passage": "Where a Regulated Firm uses Virtual Assets in an ancillary manner (e.g. as a means to enable or facilitate the carrying on of any financial services businesses), it does not necessary mean that the Regulated Firm needs to seek approvals from the FSRA in order to use Virtual Assets as part of its Regulated Activities. As illustrated in paragraph 2.2, an authorised money remittance house does not need to apply for specific approvals from the FSRA to use Virtual Assets if it merely uses Virtual Assets as a medium of exchange to facilitate the remittance of fiat currencies on behalf of Clients across jurisdictions.  The Regulated Firm will, however, have to demonstrate that the use of the Virtual Asset, used in such ancillary manner, is fit for purpose, e.g., putting in place control requirements to address technology and security risks associated with the use of the Virtual Asset.  On the other hand, for example, if the Regulated Firm offers its Clients services to exchange Virtual Assets for fiat currencies, the Regulated Firm will need to apply to, and be authorised by, the FSRA to use Virtual Assets as part of its Regulated Activities.\n",
+                "Relation": 2
+            }
+        ]
+    },
+    {
+        "QuestionID": "37ed84e7-8d63-4efe-ac14-f615780d095f",
+        "Question": "In the event of conflicting Credit Risk assessments between members of a loan syndication or consortium, what is the expected course of action for an Authorised Person?",
+        "Passages": [
+            {
+                "DocumentID": 13,
+                "PassageID": "10.2.Guidance.2.",
+                "Passage": "Internal Risk Assessment Process (IRAP). An Authorised Person in Category 1, 2, 3A, 3B, 3C or 5 is required to carry out an IRAP as detailed in Section 10.3, which is proportionate to the nature, size and complexity of its business activities and risk profile. An IRAP is a comprehensive internal risk evaluation as detailed in Section 10.3. More detail on the establishment of an IRAP and the manner of carrying out an IRAP assessment is provided in App11.\n",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 13,
+                "PassageID": "APP4.A4.1.Guidance.9.",
+                "Passage": "Counterparty Risk assessment. An Authorised Person involved in loan syndications or consortia should not rely on other parties' assessments of the Credit Risks involved but should conduct a full assessment against its own Credit Risk policy.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "223a1980-5b00-482f-9d90-718e23c425ef",
+        "Question": "For the purposes of regulatory reporting and compliance, are there any specific tools or software recommended by the FSRA to ensure accurate and timely adherence to the Virtual Asset Framework?",
+        "Passages": [
+            {
+                "DocumentID": 19,
+                "PassageID": "106)",
+                "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nSubstance requirements of Authorised Persons\nIn order to operate effectively as an Authorised Person within ADGM, an Authorised Person conducting a Regulated Activity in relation to Virtual Assets must commit resources of a nature allowing it to be operating in substance within ADGM.  Depending on the relevant Regulated Activities being undertaken, the FSRA expects to see substantive resources committed within ADGM across all lines of the Authorised Person\u2019s activity, including, but not limited to, commercial, governance, compliance/surveillance, operations, technical, IT and HR functions. The FSRA expects the \u2018mind and management\u2019 of an Authorised Person to be located within ADGM.  Further discussion on substance in relation to MTFs using Virtual Assets is set out at paragraph 126.\n",
+                "Relation": 2
+            }
+        ]
+    },
+    {
+        "QuestionID": "42520911-9236-4a4e-bc76-8974dc173ca1",
+        "Question": "What specific criteria must a start-up MTF meet to ensure its order book and matching engine functionalities are compliant with FSRA oversight requirements?",
+        "Passages": [
+            {
+                "DocumentID": 19,
+                "PassageID": "127)",
+                "Passage": "MULTILATERAL TRADING FACILITIES AND VIRTUAL ASSETS\nSubstance requirements for MTFs\nIn practical terms, this means that for a start-up MTF, its entire order book and the functionality of its matching engine will be subject to FSRA oversight.  For existing operational virtual asset exchanges that already have their order book / matching engine outside ADGM prior to making an application, a determination of which parts (if not all) of its order book (and how its matching engine) will come under FSRA regulatory oversight needs to be made by the Applicant,  to allow it to apply to become authorised as an MTF.\n",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 19,
+                "PassageID": "170)",
+                "Passage": "NON-FUNGIBLE TOKENS\nWhile the FSRA will allow these regulated MTF/Virtual Asset Custodian Groups to undertake certain NFT activities within ADGM, it is important to note the following:\n\na)\tNFTs themselves remain outside FSRA regulatory oversight;\n\nb)\tthe NFT Entity, and the MTF/Virtual Asset Custodian, will need to satisfy the FSRA of its approval process for, and the monitoring of, the Issuers, and third party integrated registries. of the NFTs (noting that an Issuer cannot be themselves, or part of their Group); and\n\nc)\tNFTs should be transferred into the MTF for auction/trading purposes and to the Virtual Asset Custodian for custodial purposes, but if not the MTF/Virtual Asset Custodian would need to satisfy the FSRA that it has proper systems and controls in place.  An MTF/Virtual Asset Custodian would therefore need to allow/onboard only suitable third-party NFT registries and relevant auction houses, outside of themselves.\n",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "c0bbf87d-4c63-4307-ad14-d6f2d4225597",
+        "Question": "Can you provide examples of the type of supporting documents and information that should accompany Suspicious Activity/Transaction Reports as per Rule 4.1.1(d)?",
+        "Passages": [
+            {
+                "DocumentID": 1,
+                "PassageID": "4.1.1.(5)",
+                "Passage": "The review process may be undertaken:\n(a)\tinternally by its internal audit or compliance function; or\n(b)\tby a competent firm of independent auditors or compliance professionals.\n(6)\tThe review process required under Rule \u200e4.1.1(4) must cover at least the following:\n(a)\ta sample testing of customer documentation relevant to an assessment of the adequacy of the customer risk assessment or CDD performed by the Relevant Person;\n(b)\tan analysis of all Suspicious Activity/Transaction Reports to highlight any area where procedures or training may need to be enhanced; and\n(c)\ta review of the adequacy of the level of responsibility and oversight of the Relevant Person\u2019s Governing Body and Senior Management in ensuring the Relevant Person has implemented and maintained adequate controls.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 1,
+                "PassageID": "4.5.1",
+                "Passage": "A Relevant Person must, where relevant, maintain the following records:\n(a)\ta copy of all documents and information obtained in undertaking initial and ongoing CDD or due diligence on business partners;\n(b)\trecords, consisting of the original documents or certified copies, in respect of the customer business relationship, including:\n(i)\tbusiness correspondence and other information relating to a customer\u2019s account;\n(ii)\tsufficient records of transactions to enable individual transactions to be reconstructed; and\n(iii)\tinternal findings and analysis relating to a transaction or any business, if the transaction or business appears unusual or suspicious, whether or not it results in a Suspicious Activity/Transaction Report;\n(c)\tinternal notifications of suspicious activity made to its MLRO under Rule \u200e\u200e14.2.2;\n(d)\tSuspicious Activity/Transaction Reports and any relevant supporting documents and information, including internal findings and analysis;\n(e)\tany relevant communications with the FIU;\n(f)\tthe documents in Rule \u200e4.6.1; and\n(g)\tany other matter that the Relevant Person is expressly required to record under these Rules,\nfor at least six years from the date on which the notification or report was made, the business relationship ends or the Transaction is completed, whichever occurs last.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "f4e9dc45-7e0c-45c1-baf9-e11b7cb219c4",
+        "Question": "Are there any anticipated updates or changes to the COBS Rules as they apply to virtual assets that firms should be preparing for in the near future?",
+        "Passages": [
+            {
+                "DocumentID": 3,
+                "PassageID": "17.1.3",
+                "Passage": "For the purposes of an Authorised Person conducting a Regulated Activity in relation to Virtual Assets, all references to \u201cClient Investments\u201d in GEN shall be read as encompassing \u201cVirtual Asset\u201d or \u201cVirtual Assets\u201d, as applicable.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 3,
+                "PassageID": "17.1.4",
+                "Passage": "The following COBS Rules should be read as applying to all Transactions undertaken by an Authorised Person conducting a Regulated Activity in relation to Virtual Assets, irrespective of any restrictions on application or any exception to these Rules elsewhere in COBS -\n(a)\tRule 3.4 (Suitability);\n(b)\tRule 6.5 (Best Execution);\n(c)\tRule 6.7 (Aggregation and Allocation);\n(d)\tRule 6.10 (Confirmation Notes);\n(e)\tRule 6.11 (Periodic Statements); and\n(f)\tChapter 12 (Key Information and Client Agreement).",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 3,
+                "PassageID": "17.2.3",
+                "Passage": "For the purposes of Rule 17.2.1, the maturity/market capitalisation requirements are set out in the accompanying Guidance published by the Regulator concerning Virtual Assets that accompanies this chapter.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "f5548b44-c5fd-4bdf-8ab8-e1ec81951c6f",
+        "Question": "Can the ADGM provide further clarification on the regulatory treatment of Environmental Instruments as Spot Commodities, especially regarding the conditions under which a carbon offset is deemed acceptable?",
+        "Passages": [
+            {
+                "DocumentID": 34,
+                "PassageID": "97)",
+                "Passage": "SPECIFIC FSRA GUIDANCE ON THE SPOT COMMODITIES FRAMEWORK\nSustainability\nExamples of Spot Commodity sourcing and trading practices that the Spot Commodities Framework intends to restrict include the use of mandatory labour and conflict minerals, as well as eliminating opaque supply chains that prohibit cohesive approaches to sustainable production (by way of COBS Rule 22.3).\n",
+                "Relation": 2
+            },
+            {
+                "DocumentID": 6,
+                "PassageID": "PART 8.20.3.3",
+                "Passage": "An asset is Eligible Climate Transition Fund Property if it is:\n(a)\taligned with an Acceptable Climate Transition Taxonomy or equivalent, provided that only one Acceptable Climate Transition Taxonomy is used by an ADGM Climate Transition Fund;\n(b)\ta Security issued in accordance with the:\n(i)\tICMA Green Bond Principles;\n(ii)\tICMA Sustainability-Linked Bond Principles;\n(iii)\tEU Green Bond Standard; or\n(iv)\tClimate Bonds Initiative.\nand compliance with which is subject to third party assurance, independent verification or equivalent assessment:\n(c)\ta Security included in or that otherwise tracks an EU Climate Transition Benchmark;\n(d)\ta Share or Debenture issued or otherwise provided by an entity that in the reasonable opinion of the Fund Manager:\n(i)\thas published a credible net zero emissions targets and strategies; and\n(ii)\tis on course to meet the net zero emissions targets; or\n(e)\tan investment intended to facilitate the transition of real estate or infrastructure assets to become more environmentally sustainable, in the reasonable opinion of the Fund Manager.",
+                "Relation": 2
+            },
+            {
+                "DocumentID": 34,
+                "PassageID": "23)",
+                "Passage": "REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES\nSpot Commodities and Accepted Spot Commodities\nFor clarification, the FSRA considers that a Spot Commodity is:\n\na)\ta good sold for cash and promptly delivered when the transaction is settled;\n\nb)\tnot a contract for the sale of a commodity under which delivery is to be made at a future date, other than the period generally accepted in the market for that Spot Commodity as the standard delivery period (it is therefore not considered a \u2018Future\u2019);\n\nc)\tnot a Financial Instrument involving conventional assets (e.g., Securities or Derivatives);\n\nd)\tnot a service or other items that are not goods, such as currencies or rights in real estate, or that are intangible; and\n\ne)\tan Environmental Instrument , where deemed by the Regulator to be a carbon offset for the purposes of section 258 of FSMR (see Rule COBS 22.2.2(d)).\n",
+                "Relation": 2
+            }
+        ]
+    },
+    {
+        "QuestionID": "ca15e2d6-a1d6-4964-b385-f9e254904580",
+        "Question": "Can the ADGM clarify the extent of the senior management's responsibility for regulatory compliance in areas that are delegated or outsourced within the Group?",
+        "Passages": [
+            {
+                "DocumentID": 18,
+                "PassageID": "3.2",
+                "Passage": "Financial Services Permissions. VC Managers operating in ADGM require a Financial Services Permission (\u201cFSP\u201d) to undertake any Regulated Activity pertaining to VC Funds and/or co-investments by third parties in VC Funds. The Regulated Activities covered by the FSP will be dependent on the VC Managers\u2019 investment strategy and business model.\n(a)\tManaging a Collective Investment Fund: this includes carrying out fund management activities in respect of a VC Fund.\n(b)\tAdvising on Investments or Credit : for VC Managers these activities will be restricted to activities related to co-investment alongside a VC Fund which the VC Manager manages, such as recommending that a client invest in an investee company alongside the VC Fund and on the strategy and structure required to make the investment.\n(c)\tArranging Deals in Investments: VC Managers may also wish to make arrangements to facilitate co-investments in the investee company.\nAuthorisation fees and supervision fees for a VC Manager are capped at USD 10,000 regardless of whether one or both of the additional Regulated Activities in b) and c) above in relation to co-investments are included in its FSP. The FSP will include restrictions appropriate to the business model of a VC Manager.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 12,
+                "PassageID": "APP2.A2.15.Guidance.1.",
+                "Passage": "The senior management of an Insurer remain responsible for its regulatory compliance, including in any areas that are delegated or outsourced to other Group members.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "e576bf3c-dd24-4786-9d97-b531b115b6a9",
+        "Question": "Could you clarify the process the Regulator follows when it receives a legally enforceable demand for Confidential Information that originated from a government or Regulatory Authority, particularly regarding notification and assertion of legal rights or privileges?",
+        "Passages": [
+            {
+                "DocumentID": 23,
+                "PassageID": "4.3.1",
+                "Passage": "In other circumstances, such as where Confidential Information is sought by a party other than a governmental or regulatory authority, such as, for example, as evidence for use in civil litigation, the Regulator will require prior consent of\u2014\n(a)\tthe person from whom the Confidential Information was obtained; and,\n(b)\tif different, the person to whom the duty of confidentiality is owed (paragraphs 198(1)(a) and (b)),\nconsistent with its general duty of confidentiality, as contemplated by section 198(1) of the FSMR.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 23,
+                "PassageID": "4.4.2",
+                "Passage": "Civil proceedings in the ADGM Court. If the Regulator is required to disclose Confidential Information received from a government or Regulatory Authority (for example, information received under a Memorandum of Understanding), the Regulator will ordinarily:\n(a)\tnotify the Regulatory Authority that provided the Confidential Information of the receipt of the legally enforceable demand, in accordance with section 199(2); and\n(b)\twhere appropriate, assert any legal rights or privileges to protect the Confidential Information (for example, Public Interest Immunity \u2013 see paragraph 4.6 below).\n",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "127ea977-b115-4cb8-b40b-bc05f1643021",
+        "Question": "In regards to eKYC systems, what are the ADGM's best practice recommendations to ensure a thorough understanding of the eKYC system and the associated risks?",
+        "Passages": [
+            {
+                "DocumentID": 1,
+                "PassageID": "6.2.1",
+                "Passage": "A Relevant Person must:\n(a)\testablish and maintain effective policies, procedures, systems and controls to prevent opportunities for money laundering in relation to the Relevant Person and its activities;\n(b)\tensure that its systems and controls in (a):\n(i)\tinclude the provision to the Relevant Person's Senior Management of regular management information on the operation and effectiveness of its AML/TFS systems and controls necessary to identify, measure, manage and control the Relevant Person's money laundering risks;\n(ii)\tenable it to determine whether a customer or a Beneficial Owner is a PEP;\n(iii)\tenable the Relevant Person to comply with these Rules and Federal AML Legislation; and\n(iv)\tenable the Relevant Person to comply with the Penal Code; and\n(c)\tensure that regular risk assessments are carried out on the adequacy of the Relevant Person's AML/TFS systems and controls to ensure that they continue to enable it to identify, assess, monitor and manage money laundering risk adequately, and are comprehensive and proportionate to the nature, scale and complexity of its activities.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 1,
+                "PassageID": "8.3.2.Guidance on CDD.9.",
+                "Passage": "When employing an eKYC System to assist with CDD, a Relevant Person should:\na.\tensure that it has a thorough understanding of the eKYC System itself and the risks of eKYC, including those outlined by relevant guidance from FATF and other international standard setting bodies;\nb.\tcomply with all the Rules of the Regulator relevant to eKYC including, but not limited to, applicable requirements regarding the business risk assessment, as per Rule \u200e6.1, and outsourcing, as per Rule \u200e9.3;\nc.\tcombine eKYC with transaction monitoring, anti-fraud and cyber-security measures to support a wider framework preventing applicable Financial Crime; and\nd.\ttake appropriate steps to identify, assess and mitigate the risk of the eKYC system being misused for the purposes of Financial Crime.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 1,
+                "PassageID": "8.1.2.(1)",
+                "Passage": "A Relevant Person must also apply CDD measures to each existing customer under Rules \u200e8.3.1, \u200e8.4.1 or \u200e8.5.1 as applicable:\n(a)\twith a frequency appropriate to the outcome of the risk-based approach taken in relation to each customer; and\n(b)\twhen the Relevant Person becomes aware that any circumstances relevant to its risk assessment for a customer have changed.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "660c92cd-5482-45db-80ed-3e06f4866d43",
+        "Question": "In the context of COBS Rules 22.7.1 and 22.7.2, can you clarify the definition of \"Accepted Spot Commodity\" or \"Accepted Spot Commodities\" and the criteria that commodities must meet to be classified as such?",
+        "Passages": [
+            {
+                "DocumentID": 3,
+                "PassageID": "22.7.3",
+                "Passage": "For the purposes of Rules 22.7.1 and 22.7.2, the following references in COBS, Chapter 8 should be read as follows:\n(a)\treferences to \u201cInvestment\u201d or \u201cInvestments\u201d shall be read as references to \u201cSpot Commodity\u201d or \u201cSpot Commodities\u201d, and\n(b)\treferences to \u201cFinancial Instrument\u201d or \u201cFinancial Instruments\u201d (including those in MIR as incorporated by virtue of COBS Rule 8.2.1) shall be read as references to \u201cAccepted Spot Commodity\u201d or \u201cAccepted Spot Commodities\u201d as applicable.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "860b703e-7012-464a-bbaa-a9e0a50c1235",
+        "Question": "Can you outline the core requirements from the Regulator that our eKYC system must meet, especially concerning business risk assessments and outsourcing?",
+        "Passages": [
+            {
+                "DocumentID": 1,
+                "PassageID": "6.2.1.Guidance.2.",
+                "Passage": "The risk assessment under Rule \u200e6.2.1(c) should identify actions to mitigate risks associated with undertaking NFTF business generally, and the use of eKYC specifically. This is because distinct risks are often likely to arise where business is conducted entirely in an NFTF manner, compared to when the business relationship includes a mix of face-to-face and NFTF interactions. The assessment should make reference to risk mitigation measures recommended by the Regulator, a competent authority of the U.A.E., FATF, and other relevant bodies.\n\n",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 1,
+                "PassageID": "8.3.2.Guidance on CDD.9.",
+                "Passage": "When employing an eKYC System to assist with CDD, a Relevant Person should:\na.\tensure that it has a thorough understanding of the eKYC System itself and the risks of eKYC, including those outlined by relevant guidance from FATF and other international standard setting bodies;\nb.\tcomply with all the Rules of the Regulator relevant to eKYC including, but not limited to, applicable requirements regarding the business risk assessment, as per Rule \u200e6.1, and outsourcing, as per Rule \u200e9.3;\nc.\tcombine eKYC with transaction monitoring, anti-fraud and cyber-security measures to support a wider framework preventing applicable Financial Crime; and\nd.\ttake appropriate steps to identify, assess and mitigate the risk of the eKYC system being misused for the purposes of Financial Crime.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "ee73adf2-2831-4c1b-9997-220b99d1fb47",
+        "Question": "What are the best practices suggested by the ADGM for conducting due diligence on API Providers to ensure they meet regulatory standards?",
+        "Passages": [
+            {
+                "DocumentID": 21,
+                "PassageID": "28)",
+                "Passage": "REGULATORY REQUIREMENTS\nDue to the very nature of collaboration and innovation that an API economy encourages amongst the financial services sector and others, the FSRA\u2019s expectations regarding API Consumers and Providers and maintaining a safe, sound and trusted financial services ecosystem are set out in this Guidance.\n",
+                "Relation": 2
+            }
+        ]
+    },
+    {
+        "QuestionID": "7ed05035-0523-404f-99cc-6897ac51d9e3",
+        "Question": "What are the reporting obligations for an Authorised Person in relation to the weekly reconciliation of fiat tokens to demonstrate the 1:1 backing?",
+        "Passages": [
+            {
+                "DocumentID": 19,
+                "PassageID": "166).c)",
+                "Passage": "Custodian providing custody/escrow services solely of a fiat currency and the related fiat token (\u201cFiat Custodian\u201d):\n\ni.\tMust obtain an FSP for the Regulated Activity of Providing Custody.\n\nii.\tIs required to comply with certain aspects of the Virtual Asset Framework, namely:\n\n1.\tBeing able to demonstrate that the fiat token is backed 1:1 through more frequent (weekly) reconciliations ; and that\n\n2.\tBeing able to demonstrate that the Accepted Virtual Asset and Technology Governance requirements are met in relation to the related fiat token.\n\niii.\tIn relation to the issuance of the related fiat token, in circumstances where the issuer is not authorised under paragraph 166(a) above, it is expected that the Fiat Custodian undertake the same due diligence as that would normally apply for an Authorised Person to determine the Accepted Virtual Assets it proposes to use (focusing on Technology Governance requirements, the seven factors used to determine an Accepted Virtual Asset, and requirements relating to reporting and reconciliation).\n",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 19,
+                "PassageID": "166).d)",
+                "Passage": "MTF (using Virtual Assets): using its own fiat tokens as a payment/transaction mechanism solely within its own platform/ecosystem:\n\ni.\tNo additional FSP is required to allow for use of fiat tokens within the MTF\u2019s platform.\n\nii.\tThe fiat token cannot be transferred/transacted outside its own platform/ecosystem.\n\niii.\tThe Authorised Person must meet the requirements of this Guidance in the context of both its Accepted Virtual Asset and fiat token activities, particularly in the context of ensuring that the methods by which the Authorised Person meets the requirements applicable to Accepted Virtual Assets and Technology Governance, and\n\niv.\tThe Authorised Person must additionally be able to show that the token is backed 1:1 through weekly reconciliation.\n",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "ec121ed0-6f30-4150-acf8-1b3dc9c73b79",
+        "Question": "What are the penalties or consequences for non-compliance with ADGM's climate-related financial risks monitoring and reporting requirements?",
+        "Passages": [
+            {
+                "DocumentID": 36,
+                "PassageID": "D.5.5.",
+                "Passage": "Principle 5 \u2013 Monitoring and reporting of climate-related financial risks . Given the evolving nature of climate-related financial risks, financial firms should monitor developments and seek to understand and, where possible, manage the impact of climate-related financial risk drivers on other material risks where additional transmission channels are identified. This should feed into the risk identification, assessment, measurement, mitigation and monitoring processes of these material risks.\n",
+                "Relation": 0
+            },
+            {
+                "DocumentID": 36,
+                "PassageID": "D.5.7.",
+                "Passage": "Principle 5 \u2013 Monitoring and reporting of climate-related financial risks . Financial firms should develop an adequate data governance framework that covers the nature and level of the risks to which they are or might be exposed and which allows them to use sufficiently forward-looking and granular climate-related risk information in their risk management and governance strategy.\n",
+                "Relation": 0
+            }
+        ]
+    },
+    {
+        "QuestionID": "9511ff0d-46f1-4e1c-95e7-ab2cbdf14f49",
+        "Question": "What measures should an MTF/Virtual Asset Custodian have in place to ensure compliance with FSRA regulations when engaging in NFT-related activities within the ADGM?",
+        "Passages": [
+            {
+                "DocumentID": 19,
+                "PassageID": "127)",
+                "Passage": "MULTILATERAL TRADING FACILITIES AND VIRTUAL ASSETS\nSubstance requirements for MTFs\nIn practical terms, this means that for a start-up MTF, its entire order book and the functionality of its matching engine will be subject to FSRA oversight.  For existing operational virtual asset exchanges that already have their order book / matching engine outside ADGM prior to making an application, a determination of which parts (if not all) of its order book (and how its matching engine) will come under FSRA regulatory oversight needs to be made by the Applicant,  to allow it to apply to become authorised as an MTF.\n",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 19,
+                "PassageID": "170)",
+                "Passage": "NON-FUNGIBLE TOKENS\nWhile the FSRA will allow these regulated MTF/Virtual Asset Custodian Groups to undertake certain NFT activities within ADGM, it is important to note the following:\n\na)\tNFTs themselves remain outside FSRA regulatory oversight;\n\nb)\tthe NFT Entity, and the MTF/Virtual Asset Custodian, will need to satisfy the FSRA of its approval process for, and the monitoring of, the Issuers, and third party integrated registries. of the NFTs (noting that an Issuer cannot be themselves, or part of their Group); and\n\nc)\tNFTs should be transferred into the MTF for auction/trading purposes and to the Virtual Asset Custodian for custodial purposes, but if not the MTF/Virtual Asset Custodian would need to satisfy the FSRA that it has proper systems and controls in place.  An MTF/Virtual Asset Custodian would therefore need to allow/onboard only suitable third-party NFT registries and relevant auction houses, outside of themselves.\n",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "fdc29f76-1ab1-4d7e-817f-dba28bf95853",
+        "Question": "What are the recommended methodologies or best practices for assessing the effectiveness of AML/TFS policies, procedures, systems, and controls in line with Rule 6.2.1(c)?",
+        "Passages": [
+            {
+                "DocumentID": 1,
+                "PassageID": "6.1.2",
+                "Passage": "A Relevant Person must use the information obtained in undertaking its business risk assessment to:\n(a)\tdevelop and maintain its AML/TFS policies, procedures, systems and controls as required by Rule \u200e6.2.1;\n(b)\tensure that its AML/TFS policies, procedures, systems and controls adequately mitigate the risks identified as part of the assessment in Rule \u200e6.1.1;\n(c)\tassess the effectiveness of its AML/TFS policies, procedures, systems and controls as required by Rule \u200e6.2.1(c);\n(d)\tassist in the allocation and prioritisation of AML/TFS resources; and\n(e)\tassist in the carrying out of the customer risk assessment under Chapter \u200e7.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 10,
+                "PassageID": "4.7.7",
+                "Passage": "An operational risk assessment system shall be closely integrated into the risk management processes of the Recognised Clearing House. Its output shall be an integral part of the process of monitoring and controlling the operational risk profile.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "efd8ebbd-51d7-4216-98e5-266b042b5373",
+        "Question": "How should we approach the reporting of Mineral Resources and Ore Reserves in a way that satisfies both the Mining Reporting Standards and the supplemental requirements set out in Rules 11.4 to 11.6?",
+        "Passages": [
+            {
+                "DocumentID": 11,
+                "PassageID": "11.Guidance.1.",
+                "Passage": "Chapter 11 sets out the disclosure requirements additional to those applicable to Persons who make, or intend to make, an Offer of Securities as provided for in chapter 4 and/or those Persons who are a Listed Entity, a Reporting Entity or an Applicant for admission to the Official List, where such disclosure relates to Exploration Targets, Exploration Results, Mineral Resources, Ore Reserves or Production Targets.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 11,
+                "PassageID": "11.Guidance.2.",
+                "Passage": "Each Mining Reporting Standard sets out its own disclosure/reporting obligations relevant to Exploration Targets, Exploration Results, Mineral Resources, Ore Reserves and Competent Person statements. These requirements are supplemented/replicated by the requirements set out in Rules 11.4, 11.5, 11.6 and 11.12.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "22a5ec4e-7bc2-459c-a823-22afc651b97c",
+        "Question": "What systems and controls does the FSRA expect an MTF/Virtual Asset Custodian to have in place if NFTs are not transferred into their platforms for auction/trading or custodial purposes?",
+        "Passages": [
+            {
+                "DocumentID": 19,
+                "PassageID": "170)",
+                "Passage": "NON-FUNGIBLE TOKENS\nWhile the FSRA will allow these regulated MTF/Virtual Asset Custodian Groups to undertake certain NFT activities within ADGM, it is important to note the following:\n\na)\tNFTs themselves remain outside FSRA regulatory oversight;\n\nb)\tthe NFT Entity, and the MTF/Virtual Asset Custodian, will need to satisfy the FSRA of its approval process for, and the monitoring of, the Issuers, and third party integrated registries. of the NFTs (noting that an Issuer cannot be themselves, or part of their Group); and\n\nc)\tNFTs should be transferred into the MTF for auction/trading purposes and to the Virtual Asset Custodian for custodial purposes, but if not the MTF/Virtual Asset Custodian would need to satisfy the FSRA that it has proper systems and controls in place.  An MTF/Virtual Asset Custodian would therefore need to allow/onboard only suitable third-party NFT registries and relevant auction houses, outside of themselves.\n",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "e10275b2-5707-419e-8e50-9099dacfa89f",
+        "Question": "Under Rule 11.12.2, what specific criteria must be met for Exploration Results or estimates of Mineral Resources and Ore Reserves to be considered \"materially changed\"?",
+        "Passages": [
+            {
+                "DocumentID": 30,
+                "PassageID": "106)",
+                "Passage": "SPECIFIC DISCLOSURE REQUIREMENTS\nCompetent Persons\nThis obligation in Rule 11.12.2 applies (but is not solely limited to) disclosures containing Exploration Results (or materially changed Exploration Results) (Rule 11.4), and estimates (or materially changed estimates) of Mineral Resources (Rule 11.5) and Ore Reserves (Rule 11.6).  It also applies to the disclosure of a Mining Reporting Entity\u2019s Summary of Reserves and Resources (Rule 11.11.1), as well as the disclosure of a MKT Form 11-1.\n",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 30,
+                "PassageID": "107)",
+                "Passage": "SPECIFIC DISCLOSURE REQUIREMENTS\nCompetent Persons\nAs provided for in Rule 11.12.3, subsequent inclusion of the Competent Person\u2019s statement is not required upon a re-disclosure of the same Exploration Results, Mineral Resources or Ore Reserves where the following is met:\n\na)\tany subsequent disclosure that refers to the Exploration Results or estimates of Mineral Resources or Ore Reserves references the earlier disclosure containing the statements and consent referred to in Rule 11.12.1; and\n\nb)\tthe Mining Reporting Entity confirms in the subsequent disclosure that it is not aware of any new information or data that materially affects the information included in the earlier disclosure, and that all material assumptions and technical parameters underpinning the estimates in the earlier disclosure continue to apply and have not materially changed.\n",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "89b6ef9e-65bf-4447-9f4e-47a04aefe7c7",
+        "Question": "What are the FSRA's requirements for the methodology used by Virtual Asset Brokers/Dealers to determine the prices of Accepted Virtual Assets quoted to clients, and how should this methodology be communicated to clients?",
+        "Passages": [
+            {
+                "DocumentID": 19,
+                "PassageID": "108)",
+                "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nVirtual Asset Brokers or Dealers\nAn Authorised Person (conducting a Regulated Activity in relation to Virtual Assets) that only has an FSP to operate as a broker / dealer and not as an MTF is required to design and structure its operations, user interface, website, marketing materials and any public or client-facing information such that it does not create the impression that it is running an MTF.  In practice, this may include not displaying any publicly-accessible information that may appear like a trading order book, not providing for any price discovery, and not giving actual or potential Clients the impression that they are interacting with an MTF.\n",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 19,
+                "PassageID": "110)",
+                "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nVirtual Asset Brokers or Dealers\nVirtual Asset brokers / dealers are required to disclose the following information to Clients:\n\na)\thow they execute and route Client\u2019s orders and source liquidity (e.g., whether they pass or route orders to other brokers, dealers or exchanges to execute). Where a broker / dealer routes Client orders to a single liquidity source such as an MTF for execution, it must also disclose this to all Clients;\n\nb)\twhether it may carry out proprietary trading on its own account, and if so, whether it may trade against Clients\u2019 positions;\n\nc)\tthe fees it charges Clients; and\n\nd)\thow it determines the prices of the Accepted Virtual Assets it quotes to Clients.\n",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "163426b4-ce2f-4cd9-ba06-2641ad483aed",
+        "Question": "- Can the FSRA provide guidance on the criteria and requirements for a Spot Commodity Settlement Facility to be considered suitable for the purposes of settlement of Spot Commodities?",
+        "Passages": [
+            {
+                "DocumentID": 34,
+                "PassageID": "95)",
+                "Passage": "SPECIFIC FSRA GUIDANCE ON THE SPOT COMMODITIES FRAMEWORK\nSustainability\nUnder the 2019 Sustainable Finance Agenda, ADGM outlined its commitment to develop a more sustainable financial system, through encouraging sustainable financial products and integrating sustainability considerations into regulations, governance and risk management.  The FSRA\u2019s Spot Commodities Framework, therefore, intends to ensure that participants can operate in markets that have suitable minimum standards for responsible and sustainable sourcing and supply, including adherence to internationally recognised certification standards.  Consumers, participants and investors benefit by the introduction of greater transparency, resilience and integrity into commodity markets.\n",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 34,
+                "PassageID": "89)",
+                "Passage": "REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES\nSpot Commodity Settlement Facilities (SCSFs)\nFor the purposes of this Guidance and distinct from RCHs, the FSRA will consider SCSFs suitable for the purposes of settlement (MIR Rule 3.8) of Spot Commodities.  A SCSF, holding an FSP for Providing Custody, may provide settlement services in Spot Commodities for MTFs or OTFs (as applicable).  Therefore, for the purposes of settlement of Spot Commodities, the arrangements that an MTF or OTF would normally have in place with a RCH can be met with suitable arrangements in place with an SCSF, if the requirements as described in this section are met.\n",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "91cc4f56-c6df-4e9a-a24d-6ec5c27c43ba",
+        "Question": "Can the ADGM provide further clarification on what constitutes 'agency services' and 'asset management' for the purpose of applying the respective beta factors in the Operational Risk Capital Requirement calculation?",
+        "Passages": [
+            {
+                "DocumentID": 13,
+                "PassageID": "APP7.A7.2.3",
+                "Passage": "An Authorised Person which uses the Standardised Approach must calculate its Operational Risk Capital Requirement using the following beta factors:\n\n/Table Start\nBusiness Line\tBeta factor\nCorporate finance\t18%\nTrading and sales\t18%\nRetail banking\t12%\nCommercial banking\t15%\nPayment and settlement\t18%\nAgency services\t15%\nAsset management\t12%\nRetail brokerage\t12%\n/Table End\n",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "55b8ddac-d7f0-4c71-921f-c5c42efbf642",
+        "Question": "How does the FSRA define the operational responsibilities of RIEs, MTFs, and OTFs with respect to the reporting of orders and transactions in Accepted Spot Commodities, and what are the specific reporting requirements for these trading venues?",
+        "Passages": [
+            {
+                "DocumentID": 34,
+                "PassageID": "95)",
+                "Passage": "SPECIFIC FSRA GUIDANCE ON THE SPOT COMMODITIES FRAMEWORK\nSustainability\nUnder the 2019 Sustainable Finance Agenda, ADGM outlined its commitment to develop a more sustainable financial system, through encouraging sustainable financial products and integrating sustainability considerations into regulations, governance and risk management.  The FSRA\u2019s Spot Commodities Framework, therefore, intends to ensure that participants can operate in markets that have suitable minimum standards for responsible and sustainable sourcing and supply, including adherence to internationally recognised certification standards.  Consumers, participants and investors benefit by the introduction of greater transparency, resilience and integrity into commodity markets.\n",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 34,
+                "PassageID": "85)",
+                "Passage": "REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES\nRecognised Investment Exchanges (RIEs)\nSubject to being granted a Recognition Order, RIEs operating within ADGM are permitted to provide a market in Financial Instruments (and Accepted Spot Commodities, pending FSRA approval by way of stipulation in its Recognition Order).  An RIE must demonstrate to the FSRA that it is able to meet the Recognition Requirements as set out in MIR Chapters 2 and 3 before a Recognition Order can be granted.  Once it has been granted, an RIE must continue to comply with the Recognition Requirements (contained within MIR Chapters 2 and 3) on an ongoing basis.\n",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "b897d7f6-2758-4878-9b5d-f15855076bcb",
+        "Question": "In relation to Credit Risk management, what specific documentation and evidence do regulators expect to be maintained by an Authorised Person to demonstrate compliance?",
+        "Passages": [
+            {
+                "DocumentID": 10,
+                "PassageID": "4.8.3",
+                "Passage": "If a Recognised Clearing House does not conduct its money settlement on commercial bank money but on its own books, it should minimise and strictly control its credit and liquidity risks as appropriate.",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 13,
+                "PassageID": "1.1.1.Guidance.4.",
+                "Passage": "These Rules reinforce the fitness and propriety requirements for Authorised Persons found in GEN 3 \u2013 Management, Systems and Controls and Principle 3. These Rules are comprised of the following:\na.\tan initial Chapter establishing a categorisation of firms for the application of these Rules;\nb.\ttwo general Chapters detailing overall requirements: General Requirements and Capital and Leverage;\nc.\tsix Chapters detailing specific requirements relating to the following particular risk types: Credit Risk, Market Risk, Operational Risk, interest rate risk in the Non Trading Book, Group Risk and Liquidity Risk;\nd.\ta Chapter imposing processes for risk self-assessment by Authorised Persons and supervisory assessment by the Regulator; and\ne.\ta final Chapter imposing public disclosure requirements.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "c6274025-fba0-409e-885b-1a786ee04cfb",
+        "Question": "What is the required format and content for the semi-annual reports to the Governing Body or Senior Management, and how should the outsourced MLRO ensure these reports are comprehensive and compliant with Rule 4.1.1(4)?",
+        "Passages": [
+            {
+                "DocumentID": 1,
+                "PassageID": "12.4.1",
+                "Passage": "The MLRO must report semi-annually to the Governing Body or Senior Management of the Relevant Person on the following matters:\n(a)\tthe results of the review under Rule \u200e4.1.1(4);\n(b)\tthe Relevant Person's compliance with Federal AML Legislation and the Regulations and Rules of the Regulator (including this AML Rulebook);\n(c)\trelevant findings, recommendations, guidance, directives, resolutions, Sanctions, notices or other conclusions and how the Relevant Person has taken them into account;\n(d)\tinternal notification(s) of suspicious activity to the MLRO made under Rule \u200e14.2.2 by the Relevant Person's Employees, or its agents or members of its Group where acting on its behalf, and action taken in respect of those reports, including the grounds for all decisions;\n(e)\tSuspicious Activity/Transaction Reports made by the Relevant Person, or its agents or members of its Group where acting on its behalf,  and action taken in respect of those reports including the grounds for all decisions; and\n(f)\tother relevant matters related to AML/TFS as it concerns the Relevant Person's business.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "e92f4467-e786-48ed-b41c-c6df29671c22",
+        "Question": "How should our firm's written disclosure policy reflect our approach to determining necessary disclosures under App12, and what are the best practices for internal controls and disclosure processes in this regard?",
+        "Passages": [
+            {
+                "DocumentID": 13,
+                "PassageID": "11.2.1",
+                "Passage": "An Authorised Person must implement and maintain a written disclosure policy that:\n(a)\tsets out the firm's approach for determining which of the disclosures set out in App12 it needs to make;\n(b)\tdetails the processes and procedures and its internal controls in relation to such disclosure;\n(c)\tdetails the medium for disclosure that most appropriately meets the purposes of this Chapter; and\n(d)\tis approved by the Governing Body of the firm.",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "50d35a96-ab30-40dc-a64d-4eec32c24944",
+        "Question": "What are the minimum cybersecurity measures that Digital Investment Managers must implement to comply with the ADGM's Data Protection Regulations and PRU 6.6 \u2013 6.9?",
+        "Passages": [
+            {
+                "DocumentID": 37,
+                "PassageID": "4.3",
+                "Passage": "Additionally, given their heavy dependence on collecting and processing client data and the risks of cyberattacks to their automated and largely digital mode of operations, Digital Investment Managers must also put in place robust data security policies and systems to ensure compliance with all relevant data protection regulations, including the ADGM\u2019s Data Protection Regulations and, as appropriate, PRU 6.6 \u2013 6.9.\n",
+                "Relation": 1
+            }
+        ]
+    },
+    {
+        "QuestionID": "bdf16c95-f265-447c-ae26-fba5b399ecdf",
+        "Question": "How does the ADGM ensure that stress testing models remain relevant and effective in reflecting current and evolving market conditions for Recognised Clearing Houses?",
+        "Passages": [
+            {
+                "DocumentID": 13,
+                "PassageID": "APP4.A4.1.Guidance.17.",
+                "Passage": "Risk assessment: Derivative Counterparties. Credit authority delegated to the credit committee and each credit officer should be subject to regular review to ensure that it remains appropriate to current market conditions and the level of their performance.\n",
+                "Relation": 1
+            },
+            {
+                "DocumentID": 10,
+                "PassageID": "4.7.16",
+                "Passage": "For the purposes of Rule \u200e4.7.14, a Recognised Clearing House must, on a regular basis as appropriate to the nature, scale and complexity of its operations:\n(a)\tperform stress tests using models containing standards and predetermined parameters and assumptions; and\n(b)\tcarry out comprehensive and thorough analysis of stress testing models, scenarios, and underlying parameters and assumptions used to ensure that they are appropriate for determining the required level of default protection in light of current and evolving market conditions.",
+                "Relation": 1
+            }
+        ]
+    }
+]
